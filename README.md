@@ -1,24 +1,10 @@
 ### Hi there 👋
 
-- :hatching_chick: Cybernetics & Robotics
-- :mushroom: SUSTech undergraduate majoring in Automation
-- :octocat: Contact me at squarezhong@outlook.com
-- :mortar_board: Next station: ZJU
+- :hatching_chick: **AI & Fluid Mechanics?**
+- :mushroom: **Grad student at ZJU**
+- :octocat: **Contact me at squarezhong@zju.edu.cn**
     
-<p>
-<img 
-  align="center"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=squarezhong&theme=merko"
-  />
-<img 
-  height=165
-  src="https://github-readme-stats.vercel.app/api?username=squarezhong&show_icons=true&count_private=true&theme=merko&rank_icon=github"
-  />
-<img 
-  height=165
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=squarezhong&layout=compact&theme=merko&exclude_repo=notion-blog"
-  />
-<p>
+![](./profile-3d-contrib/profile-green-animate.svg)
   
 <!---
 SquareZhong/SquareZhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
